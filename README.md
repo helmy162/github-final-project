@@ -22,4 +22,4 @@ The script will calculate and display the simple interest.
 
 ## License
 
-This project is licensed under the [Apache License 2.0](URL_OF_LICENSE.md).
+This project is licensed under the [Apache License 2.0](https://github.com/helmy162/github-final-project/blob/main/LICENSE).
